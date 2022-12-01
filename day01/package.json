@@ -1,0 +1,17 @@
+{
+  "name": "AOC22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nothing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "dev": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.9.3"
+  }
+}
